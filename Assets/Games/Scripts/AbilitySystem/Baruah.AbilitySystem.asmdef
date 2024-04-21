@@ -1,0 +1,22 @@
+{
+    "name": "Baruah.AbilitySystem",
+    "rootNamespace": "Baruah.AbilitySystem",
+    "references": [
+        "GUID:fca60b033ab841f4f9b9c228f0e09142",
+        "GUID:429befe8092d89847bdc30761a157275",
+        "GUID:fe3141604aa1af04dbccced57757ca52",
+        "GUID:368bedc9c03a5204998f9e05450ff818"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "Sirenix.OdinInspector.Attributes.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

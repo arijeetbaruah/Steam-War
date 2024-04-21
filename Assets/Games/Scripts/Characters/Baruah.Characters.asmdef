@@ -1,0 +1,18 @@
+{
+    "name": "Baruah.Characters",
+    "rootNamespace": "Baruah.Characters",
+    "references": [
+        "GUID:fca60b033ab841f4f9b9c228f0e09142",
+        "GUID:fe3141604aa1af04dbccced57757ca52",
+        "GUID:429befe8092d89847bdc30761a157275"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
